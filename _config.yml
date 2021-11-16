@@ -2,7 +2,7 @@ title: Slate theme
 #email: your-email@domain.com
 #author: GitHub User
 description: Slate is a theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 
